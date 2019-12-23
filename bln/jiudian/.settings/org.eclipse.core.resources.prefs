@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/org/controller/customer/roler_customer/update/updateCustomerServlet.java=UTF-8
+encoding//src/org/controller/room/role_manager/insert/AddRoomServlet.java=UTF-8
+encoding//src/org/controller/room/role_manager/update/UpdateRoomServlet.java=UTF-8
+encoding//src/org/util/DBUtil.java=UTF-8
+encoding//src/org/util/DBmysql.java=UTF-8

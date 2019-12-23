@@ -1,0 +1,14 @@
+.table{
+    border-radius: 8px;
+    background: #f0ba8e;
+    border:3px solid #f07b57;
+    width: 600px;
+    height: 150px;
+}
+h2{
+    font-size: 24px;
+    color: #f07b57 ;
+}
+.table td{
+    text-align: center;
+}

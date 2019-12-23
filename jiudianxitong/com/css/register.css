@@ -1,0 +1,54 @@
+   body{
+                background-image: url("../img/bg2.jpg");
+                /* --把背景图片放大到适合元素容器的尺寸，图片比例不变 */
+                background-size:100% 100%;
+                color: rgb(71, 71, 71);
+                
+            }
+            .user{
+                margin: 100px auto;
+                width: 550px;
+                height: 600px;
+                border-radius: 1%;
+                box-shadow: 10px 15px 10px 8px rgba(0,0,0,0.9);/*右下模糊半径 */
+                background-color: #ffffff;
+                opacity:0.8;
+               
+
+            }
+            .register h1 {
+                padding: 30px;
+                text-align: center;
+            }
+            .register label{
+                width: 80px;
+                height: 25px;
+                display: block;
+                float: left;
+                overflow: hidden;
+                padding-left: 28px;
+                padding-right: 28px;
+                text-align: justify;
+                vertical-align: middle;
+                text-align-last:justify;
+            }
+            .register input{
+                font-size: 18px;
+                display: inline;
+                width: 300px;
+                height: 34px;
+            }
+            #button{
+            	margin-left: 100px;
+                width: 100px;
+                height: 38px;
+                background-color: #d59523;
+            }
+            #button:hover{
+                opacity:1.0;
+                background-color: chocolate;
+             
+            }
+            a:link{
+                color: #000;
+            }
